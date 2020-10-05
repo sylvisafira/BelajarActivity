@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BelajarActivity</string>
+    <string name="my_profile">My Profile</string>
+    <string name="nama">Nama</string>
+    <string name="nrp">NRP</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="asal_institusi">Asal Institusi</string>
+    <string name="simpan">Simpan</string>
+    <string name="txtNama">Nama :</string>
+    <string name="txtNrp">NRP :</string>
+    <string name="txtJurusan">Jurusan :</string>
+    <string name="txtAsal">Asal Institusi :</string>
+    <string name="hasil_nama">Nama</string>
+    <string name="hasil_nrp">NRP</string>
+    <string name="hasil_jurusan">Jurusan</string>
+    <string name="hasil_institusi">Asal Institusi</string>
+</resources>
